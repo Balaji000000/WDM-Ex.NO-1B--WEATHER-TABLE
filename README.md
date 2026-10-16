@@ -1,4 +1,4 @@
-# WDM-Ex.NO-2--WEATHER-TABLE
+# WDM-Ex.NO-1B--WEATHER-TABLE
 Aim:
 To create a Weather Table with the help of Data Mining Tool WEKA.
 Description:
